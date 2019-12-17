@@ -1,2 +1,1 @@
 first_number = Integer
-
